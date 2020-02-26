@@ -1,5 +1,5 @@
 # ParametricEQ
-![Screenshot of UI](https://www.github.com/ericcarmi/ParametricEQ/peq.png)
+![Screenshot of UI](https://www.github.com/ericcarmi/ParametricEQ/peq.png?raw=true "PEQ UI")
 
 This EQ uses automatic gain control to keep the output volume equal to the input volume. 
 
